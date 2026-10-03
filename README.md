@@ -152,10 +152,4 @@ Every error uses one shape:
 | 404 | unknown ticket or route | `NOT_FOUND` |
 | 500 | unexpected failure (details are logged, not leaked) | `INTERNAL_ERROR` |
 
-## Screenshots / demo
 
-Add screenshots of the list, create and detail pages (desktop + mobile) to `docs/screenshots/` and link them here before submitting.
-
-## More
-
-See [docs/TECHNICAL_NOTES.md](docs/TECHNICAL_NOTES.md) for technical choices, assumptions, known limitations, time spent and AI usage.
